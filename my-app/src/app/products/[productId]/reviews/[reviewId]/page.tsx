@@ -7,7 +7,7 @@ const ProductReview = ({
   return (
     <>
       <h1>
-        Review {reviewId} for Product {params.productId}
+        Review {reviewId} for Product {productId}
       </h1>
     </>
   );
